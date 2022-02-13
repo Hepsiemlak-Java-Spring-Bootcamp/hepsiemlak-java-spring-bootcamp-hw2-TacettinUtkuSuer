@@ -18,7 +18,7 @@ Daha iyi anlamak adına örnek vermek gerekirse bir tane super sınıfımız ols
 
 
 
-![abstractFactoryUML](C:\Users\CSL-5\Documents\GitHub\odev02\odev02soru03\sekiller\abstractFactoryUML.png)
+![abstractFactoryUML](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw2-TacettinUtkuSuer/blob/main/odev02/odev02soru03/sekiller/abstractFactoryUML.png)
 
 [1] Web Sitesi: https://www.codesenior.com/
 
@@ -230,7 +230,7 @@ Yukarıdaki kod bloğunu çalıştırdığımız da ise aşağıdaki gibi bir ç
 
 
 
-![singleton](C:\Users\CSL-5\Documents\GitHub\odev02\odev02soru03\sekiller\singleton.png)
+![singleton](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw2-TacettinUtkuSuer/blob/main/odev02/odev02soru03/sekiller/singleton.png)
 
 
 
@@ -310,5 +310,5 @@ public class Main {
 }
 ```
 
-
+## [Geri](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw2-TacettinUtkuSuer/tree/main/odev02)
 
