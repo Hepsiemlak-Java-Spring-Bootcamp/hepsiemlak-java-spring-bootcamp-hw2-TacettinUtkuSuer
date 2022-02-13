@@ -80,6 +80,4 @@ Bu tasarım kalıbı projemizin çalıştığı anda bir sınıftan sadece bir t
 DI, Dependency Injection'ın kısaltmasıdır ve IoC "Inversion of Control" yani uygulamanın yaşam döngüsü boyunca nesnelerin birbirlerine bağımlılığını azaltmayı amaçlayan bir tasarım kalıbıdır. Herhangi bir oluşturulacak nesnenin sınıfı bir interface inject edildiyse, bu interface içerisinde ki metotları kullanacağı için nesneyi oluşturan kişi sacece bu metot isimlerini bilerek erişir ve kullanır. Böylece sınıf içerisindeki kullanım algoritmaları değişse bile isim ve amacı aynı kalacağından, nesneyi kullanan sınıf bu bağımlılıktan kurtulmuş olur.
 
 
-
-
-
+## [Geri](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw2-TacettinUtkuSuer/tree/main/odev02)
