@@ -87,4 +87,4 @@ Web teknolojileri gerçekleştirmekte kullanılan bir frameworktür. MVS yapıs�
 ```
 
 
-
+## [Geri](https://github.com/Hepsiemlak-Java-Spring-Bootcamp/hepsiemlak-java-spring-bootcamp-hw2-TacettinUtkuSuer/tree/main/odev02)
